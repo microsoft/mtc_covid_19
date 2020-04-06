@@ -128,7 +128,7 @@ We hope this resource has proved valuable as you assess your health bot usage. T
 
 Todd Kitta [LinkedIn](https://www.linkedin.com/in/toddkitta/) | [Twitter](https://twitter.com/toddkitta)
 
-![](media/bryan.jpg){width="1.0in" height="1.4in"}
+![](media/bryan.jpg)
 
 Bryan Roberts [LinkedIn](https://www.linkedin.com/in/bryan-roberts-4325719/)
 
