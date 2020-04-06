@@ -2,7 +2,7 @@
 
 The Health Bot Service is an AI-powered, extensible, secure, and compliant healthcare experience. Microsoft now has a specific template pre-built for COVID-19 Assessment. It takes incoming requests, asks about the patient&#39;s symptoms, and aids in getting people access to trusted and relevant healthcare services and information based on the CDC recommendation.
 
-![](media/template.png){width="6.5in" height="2.50625in"}
+![](media/template.png)
 
 There is a great quick start which covers the deployment of the bot and scenarios [here](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/updated-on-4-2-2020-quick-start-setting-up-your-covid-19/ba-p/1230537). We also have a Healthcare Bot Reference Architecture and deployment template [here](https://techcommunity.microsoft.com/t5/azure-ai/deploying-your-covid-19-healthcare-bot-everything-you-need-to/ba-p/1279562).
 
@@ -124,7 +124,7 @@ Finally, feel free to leverage the [GitHub repository](https://github.com/micros
 
 We hope this resource has proved valuable as you assess your health bot usage. Thank you for reading and let us know how we can help.
 
-![](media/todd.jpg){width="1.0in" height="1.4in"}
+![](media/todd.jpg)
 
 Todd Kitta [LinkedIn](https://www.linkedin.com/in/toddkitta/) | [Twitter](https://twitter.com/toddkitta)
 
